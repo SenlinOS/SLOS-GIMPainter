@@ -1,6 +1,12 @@
 # ![icon](https://raw.githubusercontent.com/SenlinOS/databox/master/SLOS-GIMPainter-icon.svg)SLOS-GIMPainter
 SLOS-GIMPainter is a brush package for **GIMP 2.10.20 or Later**.
-<br />Total: 95 = 87 Brushes + 8 Tools
+
+# Update
+Total: 110 = 102 Brushes + 8 Tools
+
+**2021-01-09:**
+- Improvement: 016_Digital-Brush, the smudge effect is more obvious.
+- Add 15 new brush presets.
 
 ![img](https://raw.githubusercontent.com/SenlinOS/databox/master/SLOS-GIMPainter-By-SenlinOS.jpg)
 
@@ -83,7 +89,13 @@ For Line Art, please check the text description: [Here](https://github.com/Senli
 
 # SLOS-GIMPainter
 SLOS-GIMPainter 是为 GIMP 2.10.20 或更高版本的画笔包。
-<br />总计：95个 = 87个画笔 + 8个工具
+
+# 更新
+总计：110个 = 102个画笔 + 8个工具
+
+**2021-01-09：**
+- 改进：016_Digital-Brush (数码画笔)，涂抹效果更明显。
+- 新增15个笔刷预设。
 
 GIMP 是功能强大的图像处理自由软件，当然也可以用来绘画，但对于现在的 GIMP 来说没有一套专业的画笔。
 <br />以前的画笔预设已经不适用于现在的 GIMP 版本，如果想用 GIMP 绘画的用户必须自己去制作画笔，从而造成不便与浪费时间。
