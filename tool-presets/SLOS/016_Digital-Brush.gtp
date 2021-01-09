@@ -18,7 +18,7 @@
     (fade-length 206)
     (fade-repeat triangular)
     (rate 56.299999999999997)
-    (flow 32.799999999999997)
+    (flow 20.799999999999997)
     (smoothing-quality 36)
     (smoothing-factor 280))
 (use-fg-bg no)
