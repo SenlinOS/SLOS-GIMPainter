@@ -6,7 +6,7 @@ Total: 110 = 102 Brushes + 8 Tools
 
 **2021-01-09:**
 - Improvement: 016_Digital-Brush, the smudge effect is more obvious.
-- Add 15 new brush presets.
+- Add 15 new brush presets. The video demo for details, [Here](https://youtu.be/NJNWc4V8k4Q)
 
 ![img](https://raw.githubusercontent.com/SenlinOS/databox/master/SLOS-GIMPainter-By-SenlinOS.jpg)
 
@@ -79,6 +79,7 @@ The Project is under an MIT License. See the LICENSE file for more information.
 - Replace the brush shape of SLOS-GIMPainter and Make Texture(+GMIC) in GIMP, [Here](https://youtu.be/G4Qt8RiLn8k).
 - How to use SLOS-GIMPainter 060 Effect Lines Brush in GIMP, [Here](https://youtu.be/K6lqyK-rDLU).
 - Use SLOS-GIMPainter to Draw Radial Lines in GIMP, [Here](https://youtu.be/lC3awNhu76c).
+- Add 15 new brush presets. The video demo for details, [Here](https://youtu.be/NJNWc4V8k4Q)
 
 For Line Art, please check the text description: [Here](https://github.com/SenlinOS/databox/blob/master/For-Line-Art_SLOS-GIMPainter.txt).
 
