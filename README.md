@@ -54,7 +54,7 @@ The name of the project is **SLOS-GIMPainter**
 	Example location: `□ /.../SLOS-GIMPainter/tool-presets`
 
 	**Click position 1, 2 and 3 in the screenshot to open the corresponding directory. Click OK to finish.**
-	<br />(/home/XXX/ is the demo location, subject to the location where you store SLOS-GIMPainter)
+	<br />(/home/.../ is the demo location, subject to the location where you store SLOS-GIMPainter)
 
 	![brushes](https://raw.githubusercontent.com/SenlinOS/databox/master/SLOS-GIMPainter-Installation/1-brushes.jpg)
 
