@@ -64,7 +64,7 @@ The name of the project is **SLOS-GIMPainter**
 
 - Restart GIMP.
 
-**NOTE:** Uncheck Checkbox to avoid changing the default setting of SLOS-GIMPainter.
+**NOTE:** Do not check the box to prevent changing the default setting of SLOS-GIMPainter.
 
 - I didn't install SLOS-GIMPainter by copying the corresponding directory to the GIMP-Profile-Folders. Because the Checkbox cannot be canceled. (maybe you will accidentally modify the default parameters)
 - My suggested method is to manually open the corresponding directory in the Project Folder by using the (Edit -> Preferences -> Folders...) of GIMP Menu.
