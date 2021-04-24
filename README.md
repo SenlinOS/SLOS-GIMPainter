@@ -53,6 +53,15 @@ The name of the project is **SLOS-GIMPainter**
 
 	Example location: `□ /.../SLOS-GIMPainter/tool-presets`
 
+	**Click position 1, 2 and 3 in the screenshot to open the corresponding directory. Click OK to finish.**
+	<br />(/home/XXX/ is the demo location, subject to the location where you store SLOS-GIMPainter)
+
+	![brushes](https://raw.githubusercontent.com/SenlinOS/databox/master/SLOS-GIMPainter-Installation/1-brushes.jpg)
+
+	![dynamics](https://raw.githubusercontent.com/SenlinOS/databox/master/SLOS-GIMPainter-Installation/2-dynamics.jpg)
+
+	![tool-presets](https://raw.githubusercontent.com/SenlinOS/databox/master/SLOS-GIMPainter-Installation/3-tool-presets.jpg)
+
 - Restart GIMP.
 
 **NOTE:** Uncheck Checkbox to avoid changing the default setting of SLOS-GIMPainter.
@@ -66,6 +75,10 @@ Open the Window menu: Dockable Dialogs -> Tool Presets, and you can see SLOS-GIM
 - Click the small triangle button on the upper right of the Tool Presets dialog, and click to `View as Grid`.
 - Click the small triangle button on the upper right of the Tool Presets dialog to `Preview Size` and select the `Large`.
 - Select the `SLOS` tab at the top of Tool Presets dialog to hide the built-in presets.
+
+	**After setting, in the menu, Edit -> Preferences -> Interface(Window Management), save the settings as shown in the screenshot, and click OK to finish.**
+
+	![(Window Management](https://raw.githubusercontent.com/SenlinOS/databox/master/SLOS-GIMPainter-Installation/wmment.jpg)
 
 # License
 The Project is under an MIT License. See the LICENSE file for more information.
