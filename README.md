@@ -98,3 +98,5 @@ The Project is under an MIT License. See the LICENSE file for more information.
 - Add 15 new brush presets. The video demo for details, [Here](https://youtu.be/NJNWc4V8k4Q)
 
 For Line Art, please check the text description: [Here](https://github.com/SenlinOS/databox/blob/master/For-Line-Art_SLOS-GIMPainter.txt).
+
+Manually save temporary presets: [Here](https://github.com/SenlinOS/databox/blob/master/manually-save-temporary-presets.md)
