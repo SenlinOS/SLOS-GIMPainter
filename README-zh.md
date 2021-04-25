@@ -51,6 +51,15 @@ GIMP 2.10.20 修复了 Bugs，我在这段时间也对 SLOS-GIMPainter 增加了
 
 	示例位置： `□ /.../SLOS-GIMPainter/tool-presets`
 
+	**依次点击图中的 1、2、3 位置打开对应的目录。点击确定按钮完成。**
+	<br />（ /home/.../ 是演示位置，以你存放 SLOS-GIMPainter 的位置为准）
+
+	![brushes](https://raw.githubusercontent.com/SenlinOS/senlinos.github.io/master/img/1-brushes.jpg)
+
+	![dynamics](https://raw.githubusercontent.com/SenlinOS/senlinos.github.io/master/img/2-dynamics.jpg)
+
+	![tool-presets](https://raw.githubusercontent.com/SenlinOS/senlinos.github.io/master/img/3-tool-presets.jpg)
+
 - 重启 GIMP
 
 **注意：** 不要勾选前面的复选框，避免更改 SLOS-GIMPainter 的默认设置。
@@ -65,6 +74,10 @@ GIMP 2.10.20 修复了 Bugs，我在这段时间也对 SLOS-GIMPainter 增加了
 - 点击工具预设对话框右上的小三角形按钮，`预览大小`，选择`较大`
 - 选择工具预设对话框上方的 `SLOS` 标签，可以隐藏 GIMP 的内置预设。
 
+	**设置完成后，在菜单，编辑 -> 首选项 -> 界面(窗口管理)中，如图操作保存设置，点击确定按钮完成。**
+
+	![wmment](https://raw.githubusercontent.com/SenlinOS/senlinos.github.io/master/img/wmment.jpg)
+
 # 许可证
 本项目采用 MIT 许可证。有关更多信息，请参见 LICENSE 文件。
 
@@ -78,3 +91,5 @@ GIMP 2.10.20 修复了 Bugs，我在这段时间也对 SLOS-GIMPainter 增加了
 [在B站的演示视频合集](https://space.bilibili.com/14824534/channel/detail?cid=135785)。
 
 对于线艺术，请查看文字说明：[这里](https://github.com/SenlinOS/databox/blob/master/For-Line-Art_SLOS-GIMPainter.txt)。
+
+手动保存临时预设：[这里](https://senlinos.github.io/post/manually-save-temporary-presets/)
