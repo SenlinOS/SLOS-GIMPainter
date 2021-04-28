@@ -40,7 +40,10 @@ GIMP 2.10.20 修复了 Bugs，我在这段时间也对 SLOS-GIMPainter 增加了
 
 # 安装方法
 
-**如何下载：** 点击绿色的 **Code** 按钮，然后点击 **Download ZIP**。
+**如何下载：** 在GitHub项目中，点击绿色的 **Code** 按钮，然后点击 **Download ZIP**。
+<br />国内用户可以在微云网盘下载：<a target="_blank" rel="nofollow" href="https://share.weiyun.com/IMP3xYlL">这里</a>
+
+**菜单，设置安装：**
 
 - 编辑 -> 首选项 ->(文件夹 -> 笔刷)、(文件夹 -> 动态)、(文件夹 -> 工具预设)
 - 点击 [添加新文件夹] 按钮，分别打开 SLOS-GIMPainter 文件夹中对应的目录：
