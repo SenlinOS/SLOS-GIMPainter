@@ -43,6 +43,9 @@ The name of the project is **SLOS-GIMPainter**
 # Installation
 
 **How to download:** Click the green **Code** button and click **Download ZIP**.
+<br />![Code button and Download ZIP](https://raw.githubusercontent.com/SenlinOS/databox/master/SLOS-GIMPainter-Installation/Code_button-and-Download_ZIP.png)
+
+**Menu, Setting Installation:**
 
 - Edit -> Preferences ->(Folders -> Brushes), (Folders -> Dynamics), (Folders -> Tool Presets)
 - Click the [Add New Folder] button to open the corresponding directories in the SLOS-GIMPainter folder respectively:
