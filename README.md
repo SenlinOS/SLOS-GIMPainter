@@ -98,9 +98,9 @@ The Project is under an MIT License. See the LICENSE file for more information.
 - Replace the brush shape of SLOS-GIMPainter and Make Texture(+GMIC) in GIMP, [Here](https://youtu.be/G4Qt8RiLn8k).
 - How to use SLOS-GIMPainter 060 Effect Lines Brush in GIMP, [Here](https://youtu.be/K6lqyK-rDLU).
 - Use SLOS-GIMPainter to Draw Radial Lines in GIMP, [Here](https://youtu.be/lC3awNhu76c).
-- Add 15 new brush presets. The video demo for details, [Here](https://youtu.be/NJNWc4V8k4Q)
+- Add 15 new brush presets. The video demo for details, [Here](https://youtu.be/NJNWc4V8k4Q).
 
 **Text Description:**
 
 - For Line Art, please check the text description: [Here](https://github.com/SenlinOS/databox/blob/master/For-Line-Art_SLOS-GIMPainter.md).
-- Manually save temporary presets, the text+video: [Here](https://github.com/SenlinOS/databox/blob/master/manually-save-temporary-presets.md)
+- Manually save temporary presets, the text+video: [Here](https://github.com/SenlinOS/databox/blob/master/manually-save-temporary-presets.md).
