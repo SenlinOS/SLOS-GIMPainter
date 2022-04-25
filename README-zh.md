@@ -99,7 +99,7 @@ GIMP 2.10.20 修复了 Bugs，我在这段时间也对 SLOS-GIMPainter 增加了
 
 对于线艺术，请查看文字说明：[这里](https://github.com/SenlinOS/databox/blob/master/For-Line-Art_SLOS-GIMPainter.md)。
 
-手动保存临时预设：[这里](https://senlinos.github.io/post/manually-save-temporary-presets/)。
+手动保存临时预设：[这里](https://senlinos.com/post/manually-save-temporary-presets/)。
 
 **其他技巧：**
 
