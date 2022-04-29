@@ -10,6 +10,7 @@
     (gradient "Full saturation spectrum CCW")
     (palette "Visibone 2")
     (brush-size 256)
+    (brush-aspect-ratio 6)
     (brush-spacing 0.20000000000000001)
     (brush-force 0.51000000000000001)
     (jitter-amount 0.75)

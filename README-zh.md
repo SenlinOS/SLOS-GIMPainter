@@ -7,10 +7,13 @@ SLOS-GIMPainter 是为 GIMP 2.10.20 或更高版本的画笔包。
 SLOS-GIMPainter 稳定版
 - 总计：115个 = 107个画笔 + 8个工具
 
-**2021-06-17:**
+**2022-04-29**
+- 改进工具预设：046a_Wet-FanBrush.gtp, 056_Watercolor-1.gtp, 057_Watercolor-2.gtp
+
+2021-06-17
 - 增加了5个画笔。详情请看截图，[这里](https://github.com/SenlinOS/databox/blob/master/SLOS-GIMPainter_new-brushes-zh.jpg)。
 
-2021-01-09：
+2021-01-09
 - 改进：016_Digital-Brush (数码画笔)，涂抹效果更明显。
 - 新增15个笔刷预设。视频演示：[这里](https://www.bilibili.com/video/BV1g5411n7JU)
 

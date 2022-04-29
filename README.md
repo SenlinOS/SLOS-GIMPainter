@@ -7,10 +7,13 @@ SLOS-GIMPainter is a brush package for **GIMP 2.10.20 or Later**.
 SLOS-GIMPainter stable version
 - Total: 115 = 107 Brushes + 8 Tools
 
-**2021-06-17:**
+**2022-04-29**
+- Improve Tool Presets: 046a_Wet-FanBrush.gtp, 056_Watercolor-1.gtp, 057_Watercolor-2.gtp
+
+2021-06-17
 - Added 5 brushes. Please see the screenshot for details, [Here](https://github.com/SenlinOS/databox/blob/master/SLOS-GIMPainter_new-brushes.jpg).
 
-2021-01-09:
+2021-01-09
 - Improvement: 016_Digital-Brush, the smudge effect is more obvious.
 - Add 15 new brush presets. The video demo for details, [Here](https://youtu.be/NJNWc4V8k4Q).
 
