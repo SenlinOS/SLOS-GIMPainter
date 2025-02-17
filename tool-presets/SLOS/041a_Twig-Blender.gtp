@@ -5,11 +5,10 @@
 (name "041a_Twig Blender")
 (tool-options "GimpSmudgeOptions"
     (tool "gimp-smudge-tool")
-    (foreground (color-rgb 0.28235295414924622 0 0))
     (brush "SLOS_twig")
     (dynamics "Angle-Random")
     (gradient "Standard")
-    (palette "Visibone 2")
+    (palette "Standard")
     (brush-size 376)
     (brush-spacing 0.16)
     (brush-force 0.51000000000000001)

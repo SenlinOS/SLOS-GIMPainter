@@ -5,11 +5,10 @@
 (name "046_Smear")
 (tool-options "GimpSmudgeOptions"
     (tool "gimp-smudge-tool")
-    (foreground (color-rgb 0.65520833333333339 0.85442708333333339 0.97395833333333337))
     (brush "SLOS_soft")
     (dynamics "Pr-Size")
     (gradient "Standard")
-    (palette "Visibone 2")
+    (palette "Standard")
     (brush-size 58)
     (jitter-amount 0.339806)
     (rate 60)

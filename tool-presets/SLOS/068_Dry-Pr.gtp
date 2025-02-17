@@ -5,11 +5,10 @@
 (name "068_Dry-Pr")
 (tool-options "GimpPaintOptions"
     (tool "gimp-paintbrush-tool")
-    (foreground (color-rgb 0.38323863636363636 0.60044127465078068 0.890625))
     (brush "SLOS_br003")
     (dynamics "Pr-Size-Op Angle-Direction")
     (gradient "Standard")
-    (palette "Visibone 2")
+    (palette "Standard")
     (brush-size 62)
     (brush-spacing 0.13)
     (brush-force 1)

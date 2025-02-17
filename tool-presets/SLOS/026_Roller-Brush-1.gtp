@@ -5,11 +5,10 @@
 (name "026_Roller Brush-1")
 (tool-options "GimpPaintOptions"
     (tool "gimp-paintbrush-tool")
-    (foreground (color-rgb 0.54135101010101017 0.77266808712121204 0.91145833333333337))
     (brush "SLOS_roller-1")
     (dynamics "Opacity Angle-Direction")
     (gradient "Standard")
-    (palette "Visibone 2")
+    (palette "Standard")
     (brush-size 120)
     (brush-spacing 0.20000000000000001)
     (brush-force 0.79000000000000004)

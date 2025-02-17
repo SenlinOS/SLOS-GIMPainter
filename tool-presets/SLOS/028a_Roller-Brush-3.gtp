@@ -8,7 +8,7 @@
     (brush "SLOS_roller-3")
     (dynamics "Opacity Angle-Direction")
     (gradient "Custom")
-    (palette "Visibone 2")
+    (palette "Standard")
     (brush-size 192)
     (brush-spacing 0.26000000000000001)
     (brush-hardness 0.95999999999999996)

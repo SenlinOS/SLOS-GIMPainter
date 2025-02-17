@@ -10,7 +10,7 @@
     (brush "SLOS_air")
     (dynamics "Pr-Opacity")
     (gradient "Standard")
-    (palette "Visibone 2")
+    (palette "Standard")
     (brush-size 207)
     (brush-spacing 0.12)
     (brush-hardness 0)

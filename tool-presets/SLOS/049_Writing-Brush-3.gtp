@@ -5,11 +5,10 @@
 (name "049_Writing Brush-3")
 (tool-options "GimpPaintOptions"
     (tool "gimp-paintbrush-tool")
-    (foreground (color-rgb 0.059659090909090891 0.22745028409090906 0.328125))
     (brush "SLOS_writing-brush-2")
     (dynamics "Opacity Angle-Direction")
     (gradient "Standard")
-    (palette "Visibone 2")
+    (palette "Standard")
     (brush-size 87)
     (brush-spacing 0.20000000000000001)
     (brush-force 0.87)

@@ -5,11 +5,10 @@
 (name "087_Rust")
 (tool-options "GimpPaintOptions"
     (tool "gimp-paintbrush-tool")
-    (foreground (color-rgb 0.36979166666666663 0.069476010101010094 0.069476010101010094))
     (brush "SLOS_rust")
     (dynamics "Opacity Angle-Direction")
     (gradient "Standard")
-    (palette "Visibone 2")
+    (palette "Standard")
     (brush-size 94)
     (brush-spacing 0.17999999999999999)
     (brush-force 1)

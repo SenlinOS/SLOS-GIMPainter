@@ -5,11 +5,10 @@
 (name "065_Artist-2")
 (tool-options "GimpSmudgeOptions"
     (tool "gimp-smudge-tool")
-    (foreground (color-rgb 0.64172979797979801 0.79063940815301748 0.98958333333333337))
     (brush "SLOS_artist-1")
     (dynamics "Pr-Size Angle-Direction")
     (gradient "Standard")
-    (palette "Visibone 2")
+    (palette "Standard")
     (brush-size 51)
     (brush-spacing 0.12)
     (brush-force 0.87)

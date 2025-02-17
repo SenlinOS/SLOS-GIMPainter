@@ -5,11 +5,10 @@
 (name "039_Grainy Blender")
 (tool-options "GimpSmudgeOptions"
     (tool "gimp-smudge-tool")
-    (foreground (color-rgb 0.51982323232323235 0.77761600378787876 0.93229166666666663))
     (brush "SLOS_charcoal-large")
     (dynamics "Angle-Random")
     (gradient "Standard")
-    (palette "Visibone 2")
+    (palette "Standard")
     (brush-size 157)
     (brush-spacing 0.12)
     (brush-force 0.51000000000000001)

@@ -5,11 +5,10 @@
 (name "069_Texture-1")
 (tool-options "GimpPaintOptions"
     (tool "gimp-paintbrush-tool")
-    (foreground (color-rgb 0.38323863636363636 0.60044127465078068 0.890625))
     (brush "SLOS_texture-a2")
     (dynamics "Pr-Op-Fl Angle-Random")
     (gradient "Standard")
-    (palette "Visibone 2")
+    (palette "Standard")
     (brush-size 567)
     (brush-spacing 0.39000000000000001)
     (brush-force 0.62)

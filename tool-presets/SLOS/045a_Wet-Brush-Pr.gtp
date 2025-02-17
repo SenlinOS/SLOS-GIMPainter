@@ -8,7 +8,7 @@
     (brush "SLOS_watercolor")
     (dynamics "Pr-Size-Flow Angle-Ran")
     (gradient "Standard")
-    (palette "Visibone 2")
+    (palette "Standard")
     (brush-size 160)
     (brush-spacing 0.12)
     (brush-hardness 0.89000000000000001)

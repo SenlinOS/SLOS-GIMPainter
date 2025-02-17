@@ -5,11 +5,10 @@
 (name "074d_Smoke-1")
 (tool-options "GimpPaintOptions"
     (tool "gimp-paintbrush-tool")
-    (foreground (color-rgb 0.035354437160421373 0.17972337401403154 0.3908629441624365))
     (brush "SLOS_smoke-1")
     (dynamics "Pr-Size(more)-Opacity")
     (gradient "Standard")
-    (palette "Visibone 2")
+    (palette "Standard")
     (brush-size 176)
     (brush-spacing 0.02)
     (brush-hardness 0.82999999999999996)

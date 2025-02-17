@@ -5,11 +5,10 @@
 (name "001_Brush Pen")
 (tool-options "GimpPaintOptions"
     (tool "gimp-paintbrush-tool")
-    (foreground (color-rgb 0.41145833333333337 0.062342171717171713 0.062342171717171713))
     (brush "SLOS_soft")
     (dynamics "Pr-Size(more)-Opacity")
     (gradient "Standard")
-    (palette "Visibone 2")
+    (palette "Standard")
     (brush-size 96)
     (brush-spacing 0.13)
     (brush-hardness 0.97999999999999998)

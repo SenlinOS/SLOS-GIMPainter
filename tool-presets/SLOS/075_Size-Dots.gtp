@@ -5,11 +5,10 @@
 (name "075_Size Dots")
 (tool-options "GimpPaintOptions"
     (tool "gimp-paintbrush-tool")
-    (foreground (color-rgb 0.52853535353535352 0.70806467120880134 0.94791666666666663))
     (brush "SLOS_round")
     (dynamics "Dots-Pr-Size")
     (gradient "Standard")
-    (palette "Visibone 2")
+    (palette "Standard")
     (brush-size 74)
     (brush-spacing 1.0600000000000001)
     (jitter-amount 0.34999999999999998)

@@ -5,11 +5,10 @@
 (name "074a_Paint Splash")
 (tool-options "GimpPaintOptions"
     (tool "gimp-paintbrush-tool")
-    (foreground (color-rgb 0.035354437160421373 0.17972337401403154 0.3908629441624365))
     (brush "SLOS_paint-splash")
     (dynamics "Pr-Size-Flow Angle-Ran")
     (gradient "Standard")
-    (palette "Visibone 2")
+    (palette "Standard")
     (brush-size 671)
     (brush-spacing 0.12)
     (brush-force 0.76000000000000001)

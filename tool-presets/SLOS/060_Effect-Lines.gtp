@@ -5,11 +5,10 @@
 (name "060_Effect Lines")
 (tool-options "GimpPaintOptions"
     (tool "gimp-paintbrush-tool")
-    (foreground (color-rgb 0.047348484848484841 0.16085490276636541 0.3125))
     (brush "SLOS_lineline-2")
     (dynamics "Angle-Direction")
     (gradient "Standard")
-    (palette "Visibone 2")
+    (palette "Standard")
     (brush-size 210)
     (brush-spacing 0.070000000000000007)
     (brush-force 1)

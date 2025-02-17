@@ -5,11 +5,10 @@
 (name "010_Calligraphy")
 (tool-options "GimpPaintOptions"
     (tool "gimp-paintbrush-tool")
-    (foreground (color-rgb 0.095012626262626271 0.31557765151515149 0.44791666666666663))
     (brush "SLOS_rectangle-1")
     (dynamics "All-Off")
     (gradient "Standard")
-    (palette "Visibone 2")
+    (palette "Standard")
     (brush-size 32)
     (brush-angle 97.000000000000256)
     (brush-spacing 0.01)

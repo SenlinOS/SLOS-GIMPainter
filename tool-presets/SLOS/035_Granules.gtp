@@ -5,11 +5,10 @@
 (name "035_Granules")
 (tool-options "GimpPaintOptions"
     (tool "gimp-paintbrush-tool")
-    (foreground (color-rgb 0.51982323232323235 0.77761600378787876 0.93229166666666663))
     (brush "SLOS_granules")
     (dynamics "Angle-Random")
     (gradient "Standard")
-    (palette "Visibone 2")
+    (palette "Standard")
     (brush-size 286)
     (brush-spacing 0.12)
     (use-jitter yes)

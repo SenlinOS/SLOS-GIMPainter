@@ -8,7 +8,7 @@
     (brush "SLOS_texture-a2")
     (dynamics "Pr-Size-Flow Angle-Ran")
     (gradient "Standard")
-    (palette "Visibone 2")
+    (palette "Standard")
     (brush-size 256)
     (brush-spacing 0.39000000000000001)
     (brush-force 0.62)

@@ -5,11 +5,10 @@
 (name "037_Blender")
 (tool-options "GimpSmudgeOptions"
     (tool "gimp-smudge-tool")
-    (foreground (color-rgb 0.51982323232323235 0.77761600378787876 0.93229166666666663))
     (brush "SLOS_round")
     (dynamics "Pr-Op-Fl-Jitter Angle-Ran")
     (gradient "Standard")
-    (palette "Visibone 2")
+    (palette "Standard")
     (brush-size 110)
     (brush-spacing 0.13)
     (brush-hardness 0.92000000000000004)

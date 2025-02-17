@@ -5,11 +5,10 @@
 (name "064_Artist-1")
 (tool-options "GimpPaintOptions"
     (tool "gimp-paintbrush-tool")
-    (foreground (color-rgb 0.64172979797979801 0.79063940815301748 0.98958333333333337))
     (brush "SLOS_artist")
     (dynamics "Copy-Pr-Size Angle-Direction")
     (gradient "Standard")
-    (palette "Visibone 2")
+    (palette "Standard")
     (brush-size 51)
     (brush-spacing 0.32000000000000001)
     (brush-force 0.52000000000000002)

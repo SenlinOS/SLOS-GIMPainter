@@ -5,11 +5,10 @@
 (name "059_Water Drops")
 (tool-options "GimpPaintOptions"
     (tool "gimp-paintbrush-tool")
-    (foreground (color-rgb 0.60530303030303023 0.76534707956724191 0.97916666666666663))
     (brush "SLOS_water-drop")
     (dynamics "Pr-Size-Flow Angle-Ran")
     (gradient "Standard")
-    (palette "Visibone 2")
+    (palette "Standard")
     (brush-size 169)
     (brush-spacing 0.5)
     (brush-force 0.83999999999999997)

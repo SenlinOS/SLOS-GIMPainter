@@ -5,11 +5,10 @@
 (name "005_1 Pixel")
 (tool-options "GimpPencilOptions"
     (tool "gimp-pencil-tool")
-    (foreground (color-rgb 1 0.52121212121212124 0.52121212121212124))
     (brush "SLOS_1-Pixel")
     (dynamics "All-Off")
     (gradient "Standard")
-    (palette "Visibone 2")
+    (palette "Standard")
     (brush-size 1)
     (brush-spacing 0.01)
     (brush-force 1)

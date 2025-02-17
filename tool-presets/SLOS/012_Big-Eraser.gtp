@@ -5,10 +5,9 @@
 (name "012_Big Eraser")
 (tool-options "GimpEraserOptions"
     (tool "gimp-eraser-tool")
-    (foreground (color-rgb 0.040214646464646474 0.17458570075757579 0.25520833333333337))
     (brush "SLOS_round")
     (dynamics "All-Off")
-    (palette "Visibone 2")
+    (palette "Standard")
     (brush-size 169)
     (smoothing-quality 36)
     (smoothing-factor 280))

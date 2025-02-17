@@ -5,11 +5,10 @@
 (name "063_Pointy Brush")
 (tool-options "GimpPaintOptions"
     (tool "gimp-paintbrush-tool")
-    (foreground (color-rgb 0.49981060606060612 0.69163645234182414 0.94791666666666663))
     (brush "SLOS_dip-pen")
     (dynamics "Pr-Size-Op Angle-Ran")
     (gradient "Standard")
-    (palette "Visibone 2")
+    (palette "Standard")
     (brush-size 36)
     (brush-spacing 0.16)
     (brush-force 0.62)

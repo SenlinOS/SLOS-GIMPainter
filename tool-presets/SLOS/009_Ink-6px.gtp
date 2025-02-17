@@ -5,7 +5,6 @@
 (name "009_Ink 6px")
 (tool-options "GimpInkOptions"
     (tool "gimp-ink-tool")
-    (foreground (color-rgb 1 0.52121212121212124 0.52121212121212124))
     (brush-size 51)
     (brush-hardness 0.5)
     (smoothing-quality 36)

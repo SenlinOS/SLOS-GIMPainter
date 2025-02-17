@@ -5,11 +5,10 @@
 (name "023_Square")
 (tool-options "GimpPaintOptions"
     (tool "gimp-paintbrush-tool")
-    (foreground (color-rgb 0.31186868686868685 0.6117424242424242 0.79166666666666663))
     (brush "SLOS_charcoal")
     (dynamics "Opacity Angle-Direction")
     (gradient "Standard")
-    (palette "Visibone 2")
+    (palette "Standard")
     (brush-size 70)
     (brush-angle 180)
     (brush-spacing 0.19)

@@ -5,10 +5,9 @@
 (name "055_Blur Tool")
 (tool-options "GimpConvolveOptions"
     (tool "gimp-convolve-tool")
-    (foreground (color-rgb 0.57258819856384646 0.68827574600742791 0.8428348423353107))
     (brush "SLOS_round")
     (dynamics "All-Off")
-    (palette "Visibone 2")
+    (palette "Standard")
     (brush-size 36)
     (brush-force 1)
     (use-jitter yes)

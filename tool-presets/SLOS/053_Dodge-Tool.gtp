@@ -5,10 +5,9 @@
 (name "053_Dodge Tool")
 (tool-options "GimpDodgeBurnOptions"
     (tool "gimp-dodge-burn-tool")
-    (foreground (color-rgb 0.57258819856384646 0.68827574600742791 0.8428348423353107))
     (brush "SLOS_very-soft")
     (dynamics "Pr-Opacity")
-    (palette "Visibone 2")
+    (palette "Standard")
     (brush-size 163)
     (brush-spacing 0.12)
     (brush-hardness 0.25)

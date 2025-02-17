@@ -5,11 +5,10 @@
 (name "024_Square-R")
 (tool-options "GimpPaintOptions"
     (tool "gimp-paintbrush-tool")
-    (foreground (color-rgb 0.31186868686868685 0.6117424242424242 0.79166666666666663))
     (brush "SLOS_square-r")
     (dynamics "Pr-Size-Flow Angle-Ran")
     (gradient "Standard")
-    (palette "Visibone 2")
+    (palette "Standard")
     (brush-size 125)
     (brush-spacing 0.31)
     (brush-hardness 0.92000000000000004)

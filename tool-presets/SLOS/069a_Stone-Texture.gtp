@@ -8,7 +8,7 @@
     (brush "SLOS_stone")
     (dynamics "Pr-Op Angle-Random")
     (gradient "Custom")
-    (palette "Visibone 2")
+    (palette "Standard")
     (brush-size 556)
     (brush-angle 17)
     (brush-spacing 0.33000000000000002)

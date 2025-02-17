@@ -7,7 +7,13 @@ SLOS-GIMPainter 是为 GIMP 2.10.20 或更高版本的画笔包。
 SLOS-GIMPainter 稳定版
 - 总计：115个 = 107个画笔 + 8个工具
 
-**2022-04-29**
+**2025-02-17➤‍‍**
+- 优化：
+    - 删除工具预设tool-presets中的(foreground (color前景色参数。只有052_Glow需要这个参数，其他的都不需要前景色参数。
+    - 色板palette的参数修改为Standard。
+    - 上传了053a_Gradient-Pen_ForG3.gtp工具预设。如果你在使用GIMP 3.0 RC3，可以把这个文件放到tool-presets/SLOS目录中，然后删除053a_Gradient-Pen.gtp文件。（因为053a_Gradient-Pen.gtp在GIMP 3.0 RC3中不会启动默认的彩虹渐变。）
+
+2022-04-29
 - 改进工具预设：046a_Wet-FanBrush.gtp, 056_Watercolor-1.gtp, 057_Watercolor-2.gtp
 
 2021-06-17

@@ -5,11 +5,10 @@
 (name "061_Many Lines")
 (tool-options "GimpPaintOptions"
     (tool "gimp-paintbrush-tool")
-    (foreground (color-rgb 0.047348484848484841 0.16085490276636541 0.3125))
     (brush "SLOS_lineline-1")
     (dynamics "Pr-Angle-Random")
     (gradient "Standard")
-    (palette "Visibone 2")
+    (palette "Standard")
     (brush-size 331)
     (brush-spacing 0.16)
     (brush-force 1)

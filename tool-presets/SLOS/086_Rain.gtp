@@ -5,11 +5,10 @@
 (name "086_Rain")
 (tool-options "GimpPaintOptions"
     (tool "gimp-paintbrush-tool")
-    (foreground (color-rgb 0.83854166666666663 0.42689393939393933 0.42689393939393933))
     (brush "SLOS_lineline-2")
     (dynamics "Pr-Size")
     (gradient "Standard")
-    (palette "Visibone 2")
+    (palette "Standard")
     (brush-size 272)
     (brush-spacing 0.12)
     (brush-force 0.91000000000000003)

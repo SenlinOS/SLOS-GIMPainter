@@ -7,7 +7,7 @@
     (tool "gimp-eraser-tool")
     (brush "SLOS_granules")
     (dynamics "Angle-Random")
-    (palette "Visibone 2")
+    (palette "Standard")
     (brush-size 286)
     (brush-spacing 0.12)
     (fade-length 138)

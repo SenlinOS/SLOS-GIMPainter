@@ -5,11 +5,10 @@
 (name "091_Cloner-Position")
 (tool-options "GimpCloneOptions"
     (tool "gimp-clone-tool")
-    (foreground (color-rgb 0.2782828282828283 0.61519097222222208 0.79166666666666663))
     (brush "SLOS_round")
     (dynamics "All-Off")
     (pattern "Paper")
-    (palette "Visibone 2")
+    (palette "Standard")
     (brush-size 316)
     (brush-force 0.89000000000000001)
     (fade-length 138)

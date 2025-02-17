@@ -9,7 +9,7 @@
     (brush "SLOS_texture-3")
     (dynamics "Pr-Size(more)-Opacity")
     (gradient "Custom")
-    (palette "Visibone 2")
+    (palette "Standard")
     (brush-size 32)
     (brush-angle 22)
     (brush-spacing 0.32000000000000001)

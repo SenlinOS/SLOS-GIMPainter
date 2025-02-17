@@ -7,7 +7,14 @@ SLOS-GIMPainter is a brush package for **GIMP 2.10.20 or Later**.
 SLOS-GIMPainter stable version
 - Total: 115 = 107 Brushes + 8 Tools
 
-**2022-04-29**
+**2025-02-17➤‍‍**
+- Optimization:
+
+    - Delete the (foreground (color parameter in the tool-presets. Only 052_Glow needs this parameter, and others don't need the foreground color parameter.
+    - The parameter of the palette is changed to Standard.
+    - Uploaded 053a_Gradient-Pen_ForG3.gtp tool preset. If you are using GIMP 3.0 RC3, you can put this file in the tool-presets/SLOS directory and delete the 053a_Gradient-Pen.gtp file. (Because 053a_Gradient-Pen.gtp will not start the default rainbow gradient in GIMP 3.0 RC3.)
+
+2022-04-29
 - Improve Tool Presets: 046a_Wet-FanBrush.gtp, 056_Watercolor-1.gtp, 057_Watercolor-2.gtp
 
 2021-06-17

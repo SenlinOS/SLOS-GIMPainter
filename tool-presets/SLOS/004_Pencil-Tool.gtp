@@ -5,11 +5,10 @@
 (name "004_Pencil Tool")
 (tool-options "GimpPencilOptions"
     (tool "gimp-pencil-tool")
-    (foreground (color-rgb 1 0.52121212121212124 0.52121212121212124))
     (brush "SLOS_round")
     (dynamics "Pr-Size")
     (gradient "Standard")
-    (palette "Visibone 2")
+    (palette "Standard")
     (brush-size 8)
     (fade-length 138)
     (fade-unit percent)

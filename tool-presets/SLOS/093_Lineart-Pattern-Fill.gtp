@@ -5,8 +5,7 @@
 (name "093_Lineart: Pattern Fill")
 (tool-options "GimpBucketFillOptions"
     (tool "gimp-bucket-fill-tool")
-    (foreground (color-rgb 0.24431818181818182 0.671875 0.89583333333333337))
-    (pattern "Paper")
+    (pattern "Pine")
     (brush-size 80)
     (fill-mode pattern)
     (fill-area line-art)

@@ -5,11 +5,10 @@
 (name "045_Water Blender")
 (tool-options "GimpSmudgeOptions"
     (tool "gimp-smudge-tool")
-    (foreground (color-rgb 0.052525252525252537 0.22803030303030306 0.33333333333333337))
     (brush "SLOS_roller-1")
     (dynamics "Opacity Angle-Direction")
     (gradient "Standard")
-    (palette "Visibone 2")
+    (palette "Standard")
     (brush-size 120)
     (brush-spacing 0.20000000000000001)
     (brush-force 0.79000000000000004)

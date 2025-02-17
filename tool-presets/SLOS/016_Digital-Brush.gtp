@@ -5,11 +5,10 @@
 (name "016_Digital Brush")
 (tool-options "GimpSmudgeOptions"
     (tool "gimp-smudge-tool")
-    (foreground (color-rgb 0.040214646464646474 0.17458570075757579 0.25520833333333337))
     (brush "SLOS_round")
     (dynamics "Pr-Op-Fl Angle-Random")
     (gradient "Standard")
-    (palette "Visibone 2")
+    (palette "Standard")
     (brush-size 110)
     (brush-spacing 0.12)
     (brush-hardness 0.92)

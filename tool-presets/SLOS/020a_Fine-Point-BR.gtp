@@ -8,7 +8,7 @@
     (brush "SLOS_round")
     (dynamics "Pr-Size(more)")
     (gradient "Standard")
-    (palette "Visibone 2")
+    (palette "Standard")
     (brush-size 36)
     (brush-hardness 0.95999999999999996)
     (brush-force 0.91000000000000003)

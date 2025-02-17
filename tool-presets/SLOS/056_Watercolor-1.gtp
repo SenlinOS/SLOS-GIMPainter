@@ -5,11 +5,10 @@
 (name "056_Watercolor-1")
 (tool-options "GimpPaintOptions"
     (tool "gimp-paintbrush-tool")
-    (foreground (color-rgb 0.22727272727272724 0.45104252259654903 0.75))
     (brush "SLOS_texture-dry")
     (dynamics "Pr-Op-Fl-Jitter Angle-Ran")
     (gradient "Standard")
-    (palette "Visibone 2")
+    (palette "Standard")
     (brush-size 175)
     (brush-spacing 0.26000000000000001)
     (brush-hardness 0.85999999999999999)

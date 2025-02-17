@@ -5,11 +5,10 @@
 (name "067_Flat Brush")
 (tool-options "GimpPaintOptions"
     (tool "gimp-paintbrush-tool")
-    (foreground (color-rgb 0.38323863636363636 0.60044127465078068 0.890625))
     (brush "SLOS_sewing")
     (dynamics "Pr-Opacity")
     (gradient "Standard")
-    (palette "Visibone 2")
+    (palette "Standard")
     (brush-size 96)
     (brush-aspect-ratio 6)
     (brush-spacing 0.029999999999999999)

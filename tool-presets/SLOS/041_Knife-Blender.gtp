@@ -5,11 +5,10 @@
 (name "041_Knife Blender")
 (tool-options "GimpSmudgeOptions"
     (tool "gimp-smudge-tool")
-    (foreground (color-rgb 0.041035353535353536 0.17814867424242423 0.26041666666666663))
     (brush "SLOS_knife")
     (dynamics "Opacity Angle-Direction")
     (gradient "Standard")
-    (palette "Visibone 2")
+    (palette "Standard")
     (brush-size 127)
     (brush-angle 90)
     (brush-spacing 0.16)

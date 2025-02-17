@@ -5,11 +5,10 @@
 (name "028_Dry Brush")
 (tool-options "GimpPaintOptions"
     (tool "gimp-paintbrush-tool")
-    (foreground (color-rgb 0.03226010101010101 0.24972774621212121 0.38020833333333337))
     (brush "SLOS_dry")
     (dynamics "Copy-Opacity Angle-Direction")
     (gradient "Standard")
-    (palette "Visibone 2")
+    (palette "Standard")
     (brush-size 105)
     (brush-angle 90)
     (brush-spacing 0.12)

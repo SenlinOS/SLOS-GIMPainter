@@ -5,11 +5,10 @@
 (name "077_xStars")
 (tool-options "GimpPaintOptions"
     (tool "gimp-paintbrush-tool")
-    (foreground (color-rgb 0.011079545454545458 0.093290622432210396 0.203125))
     (brush "SLOS_starx")
     (dynamics "Pr-Size-Flow Angle-Ran")
     (gradient "Standard")
-    (palette "Visibone 2")
+    (palette "Standard")
     (brush-size 157)
     (brush-aspect-ratio 0.94736839595593902)
     (brush-spacing 0.76000000000000001)

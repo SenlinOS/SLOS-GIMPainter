@@ -5,11 +5,10 @@
 (name "074_Sewing")
 (tool-options "GimpPaintOptions"
     (tool "gimp-paintbrush-tool")
-    (foreground (color-rgb 0.52853535353535352 0.70806467120880134 0.94791666666666663))
     (brush "SLOS_sewing")
     (dynamics "Angle-Direction")
     (gradient "Standard")
-    (palette "Visibone 2")
+    (palette "Standard")
     (brush-size 16)
     (brush-spacing 1.7)
     (brush-hardness 0.92000000000000004)

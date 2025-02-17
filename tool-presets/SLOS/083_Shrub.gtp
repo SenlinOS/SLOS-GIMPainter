@@ -8,7 +8,7 @@
     (brush "SLOS_sewing")
     (dynamics "Opacity Angle-Direction")
     (gradient "Standard")
-    (palette "Visibone 2")
+    (palette "Standard")
     (brush-size 126)
     (brush-angle 90)
     (brush-spacing 0.16)

@@ -5,11 +5,10 @@
 (name "044_Add Water")
 (tool-options "GimpSmudgeOptions"
     (tool "gimp-smudge-tool")
-    (foreground (color-rgb 0.052525252525252537 0.22803030303030306 0.33333333333333337))
     (brush "SLOS_blender")
     (dynamics "Pr-Op-Fl Angle-Random")
     (gradient "Standard")
-    (palette "Visibone 2")
+    (palette "Standard")
     (brush-size 96)
     (brush-spacing 0.12)
     (brush-force 0.51000000000000001)

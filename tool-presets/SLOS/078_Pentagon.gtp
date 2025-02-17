@@ -5,11 +5,10 @@
 (name "078_Pentagon")
 (tool-options "GimpPaintOptions"
     (tool "gimp-paintbrush-tool")
-    (foreground (color-rgb 0.011079545454545458 0.093290622432210396 0.203125))
     (brush "SLOS_pentagon")
     (dynamics "Pr-Op-Si-Fl Angle-Ran")
     (gradient "Standard")
-    (palette "Visibone 2")
+    (palette "Standard")
     (brush-size 324)
     (brush-spacing 0.17999999999999999)
     (brush-force 0.31)

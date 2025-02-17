@@ -8,7 +8,7 @@
     (brush "SLOS_leafs-2")
     (dynamics "Angle-Direction")
     (gradient "Standard")
-    (palette "Visibone 2")
+    (palette "Standard")
     (brush-size 256)
     (brush-spacing 0.26000000000000001)
     (brush-force 1)

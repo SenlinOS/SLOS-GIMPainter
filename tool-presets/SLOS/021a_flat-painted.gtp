@@ -8,7 +8,7 @@
     (brush "SLOS_flat-painted")
     (dynamics "All-Off")
     (gradient "Standard")
-    (palette "Visibone 2")
+    (palette "Standard")
     (brush-size 37)
     (brush-spacing 0.01)
     (brush-hardness 0.92000000000000004)

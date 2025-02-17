@@ -5,10 +5,9 @@
 (name "011_Eraser Pen")
 (tool-options "GimpEraserOptions"
     (tool "gimp-eraser-tool")
-    (foreground (color-rgb 0.095012626262626271 0.31557765151515149 0.44791666666666663))
     (brush "SLOS_round")
     (dynamics "Pr-Size")
-    (palette "Visibone 2")
+    (palette "Standard")
     (brush-size 10)
     (smoothing-quality 36)
     (smoothing-factor 280))

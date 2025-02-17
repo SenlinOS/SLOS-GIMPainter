@@ -5,11 +5,10 @@
 (name "017_Thin Brush")
 (tool-options "GimpPaintOptions"
     (tool "gimp-paintbrush-tool")
-    (foreground (color-rgb 0.040214646464646474 0.17458570075757579 0.25520833333333337))
     (brush "SLOS_round")
     (dynamics "Pr-Size-Opacity")
     (gradient "Standard")
-    (palette "Visibone 2")
+    (palette "Standard")
     (brush-size 12)
     (brush-hardness 0.26000000000000001)
     (brush-force 0.59999999999999998)
