@@ -11,6 +11,8 @@ SLOS-GIMPainter stable version
 
 **2025-03-18 ➤‍‍**
 
+- (2025-07-02 update, **007_Pen-3px.gtp** size correction)
+
 - Tool-Preset names reorder, [View Screenshot](https://raw.githubusercontent.com/SenlinOS/databox/refs/heads/master/Tool-Preset-names-reorder.png). The previous naming methods were 001, 001a and 001b. Rename it in the real order this time.
 
 - GIMP3 has been released, and this project now supports GIMP3 by default. If you use a version of **GIMP2.10.20 to 2.10.38**, please replace the 064_Gradient-Pen_ForG3.gtp file in the tool-presets/SLOS directory with **064_Gradient-Pen_ForG2.gtp** in the project.
