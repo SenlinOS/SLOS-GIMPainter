@@ -3,6 +3,10 @@ SLOS-GIMPainter 是为 GIMP 2.10.20 或更高版本的画笔包。
 
 [演示](https://space.bilibili.com/14824534/channel/seriesdetail?sid=1169812&ctype=0) | [English Description](https://github.com/SenlinOS/SLOS-GIMPainter)
 
+### 如何安装画笔集SLOS-GIMPainter
+
+- 点击绿色 **Code** 按钮，点击 **Download ZIP**，然后看这个：[无声演示视频](https://www.bilibili.com/video/BV1RvYzzqE1L/)
+
 # 更新
 
 SLOS-GIMPainter 稳定版

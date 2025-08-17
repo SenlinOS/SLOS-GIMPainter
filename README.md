@@ -3,6 +3,10 @@ SLOS-GIMPainter is a brush package for **GIMP 2.10.20 or Later**.
 
 [Demo](https://github.com/SenlinOS/SLOS-GIMPainter#demo) | [中文Chinese](https://github.com/SenlinOS/SLOS-GIMPainter/blob/master/README-zh.md)
 
+### How to install the brush set SLOS-GIMPainter
+
+- Click the green **Code** button and click **Download ZIP**, and then watch this: [Silent demo video](https://youtu.be/5majG3niCgg)
+
 # Update
 
 SLOS-GIMPainter stable version
