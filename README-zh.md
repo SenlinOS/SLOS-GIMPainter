@@ -1,7 +1,7 @@
 # ![icon](https://raw.githubusercontent.com/SenlinOS/databox/master/SLOS-GIMPainter-icon.svg)SLOS-GIMPainter
 SLOS-GIMPainter 是为 GIMP 2.10.20 或更高版本的画笔包。
 
-[演示](https://space.bilibili.com/14824534/channel/seriesdetail?sid=1169812&ctype=0) | [English Description](https://github.com/SenlinOS/SLOS-GIMPainter)
+[演示](https://space.bilibili.com/14824534/lists/1169812?type=series) | [English Description](https://github.com/SenlinOS/SLOS-GIMPainter)
 
 ### 如何安装画笔集SLOS-GIMPainter
 
@@ -134,7 +134,7 @@ GIMP 2.10.20 修复了 Bugs，我在这段时间也对 SLOS-GIMPainter 增加了
 **关于详细的讲解，请看我的视频演示：**
 <br />(无声 / 字幕)
 
-[在B站的演示视频合集](https://space.bilibili.com/14824534/channel/seriesdetail?sid=1169812&ctype=0)。
+[在B站的演示视频合集](https://space.bilibili.com/14824534/lists/1169812?type=series)。
 
 对于线艺术，请查看文字说明：[这里](https://github.com/SenlinOS/databox/blob/master/For-Line-Art_SLOS-GIMPainter.md)。
 
